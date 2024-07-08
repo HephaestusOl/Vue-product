@@ -1,0 +1,105 @@
+.recommendation {
+  color: white;
+  margin: 0 250px;
+  // margin-top: 52px;
+  &__text {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  &__list {
+    display: flex;
+    // flex-wrap: wrap;
+    margin-top: 16px;
+    list-style-type: none;
+  }
+}
+
+.text {
+  &__title {
+    font-size: 36px;
+    font-weight: 400;
+    
+  }
+  &__description {
+    font-weight: 400;
+    font-size: 20px;
+  }
+}
+
+.item__wrapper {
+  width: 325px;
+  height: 257px;
+  padding: 8px 8px 8px 8px;
+  border-radius: 16px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background-color: rgb(7, 21, 37);
+  margin-right: 20px;
+  margin-bottom: 20px;
+  p {
+    margin-top: 8px;
+    background: none;
+    font-size: 26px;
+    font-weight: 400;
+    padding-left: 8px;
+  }
+  img {
+    background: none;
+    z-index: -1;
+  }
+}
+
+.item {
+  a {
+    text-decoration: none;
+    color: rgb(219, 221, 224);
+    display: flex;
+  }
+}
+
+.tags {
+  position: relative;
+  .subs,
+  .sky,
+  .textures {
+    padding: 4px 10px 4px 8px;
+    border-radius: 32px;
+    background: rgb(7, 21, 37);
+    position: absolute;
+    margin-top: 8px;
+    font-size: 13px;
+  }
+  .subs {
+    margin-left: 8px;
+  }
+  .sky {
+    margin-left: 130px;
+  }
+  .textures {
+    margin-left: 196px;
+    z-index: 1;
+  }
+  &__icon {
+    margin: 0px 6px;
+    padding-top: 3px;
+  }
+  .downloads {
+    position: absolute;
+    background: none;
+    margin-top: 167px;
+    margin-left: 8px;
+  }
+  .star {
+    position: absolute;
+    background: none;
+    margin-top: 158px;
+    margin-left: 276px;
+    z-index: 1;
+  }
+  .hot, .new {
+    position: absolute;
+    background: none;
+    margin-left: 272px;
+    z-index: 0;
+  }
+}

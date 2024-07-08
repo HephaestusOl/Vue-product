@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Modification 1",
+    "image": "Rectangle 4.png",
+    "tags": ["subscription+", "sky", "textures"],
+    "downloads": 15000,
+    "isHot": true,
+    "isNew": false
+  },
+  {
+    "id": 2,
+    "name": "Modification 2",
+    "image": "Rectangle 3.png",
+    "tags": ["subscription+", "sky", "textures"],
+    "downloads": 15000,
+    "isHot": false,
+    "isNew": false
+  },
+  {
+    "id": 3,
+    "name": "Modification 3",
+    "image": "Rectangle 2.png",
+    "tags": ["subscription+", "sky", "textures"],
+    "downloads": 15000,
+    "isHot": false,
+    "isNew": true
+  },
+  {
+    "id": 4,
+    "name": "Modification 4",
+    "image": "Rectangle 1.png",
+    "tags": ["subscription+", "sky", "textures"],
+    "downloads": 15000,
+    "isHot": false,
+    "isNew": false
+  }
+]

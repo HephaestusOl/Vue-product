@@ -1,0 +1,14 @@
+<svg width="11.000000" height="11.000000" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip21_39">
+			<rect id="tag-01" width="11.000000" height="11.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="tag-01" width="11.000000" height="11.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip21_39)">
+		<path id="Icon" d="M8.98 4.86C9.53 5.4 9.8 5.67 9.9 5.99C9.99 6.26 9.99 6.56 9.9 6.84C9.8 7.15 9.53 7.42 8.98 7.97L7.97 8.98C7.42 9.53 7.15 9.8 6.84 9.9C6.56 9.99 6.26 9.99 5.99 9.9C5.67 9.8 5.4 9.53 4.86 8.98L1.34 5.47C1.18 5.31 1.1 5.23 1.05 5.14C1 5.05 0.96 4.96 0.94 4.87C0.91 4.77 0.91 4.65 0.91 4.43L0.91 2.38C0.91 1.86 0.91 1.61 1.01 1.41C1.1 1.24 1.24 1.1 1.41 1.01C1.61 0.91 1.86 0.91 2.38 0.91L4.43 0.91C4.65 0.91 4.77 0.91 4.87 0.94C4.96 0.96 5.05 1 5.14 1.05C5.23 1.1 5.31 1.18 5.47 1.34L8.98 4.86ZM3.66 3.66L3.67 3.66M3.66 3.89C3.54 3.89 3.43 3.79 3.43 3.66C3.43 3.54 3.54 3.43 3.66 3.43C3.79 3.43 3.89 3.54 3.89 3.66C3.89 3.79 3.79 3.89 3.66 3.89Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>
